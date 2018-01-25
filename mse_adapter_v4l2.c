@@ -71,6 +71,7 @@
 #include <linux/fs.h>
 #include <linux/platform_device.h>
 #include <linux/videodev2.h>
+#include <linux/slab.h>
 #include <media/v4l2-device.h>
 #include <media/v4l2-dev.h>
 #include <media/v4l2-ioctl.h>
